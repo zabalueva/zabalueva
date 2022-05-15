@@ -2,7 +2,7 @@
 
 
 #### I'm frontend developer (Angular, React, and if you're reading it in my profile - I'm pretty good with Git ;) ).
-#### Last two years (and currently) I developing with big international team, delivered actually noteworthy features (support for RTL, accessibility, WebRTC calls, websockets and so on)
+#### Last two years I am programming with JavaScript, and currently I developing complex web-interfaces with big international team, and was delivered actually noteworthy features (support for RTL, accessibility, WebRTC calls, websockets and so on)
 #### I'm currently learning Node JS, advanced ReactJS and Angular.
 
 #### The best way to communicate with me - my Telegram ***@Age_eva***
