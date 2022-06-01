@@ -9,6 +9,7 @@
 
 ## My meetups and webinars
 
+- [Accessibility of web-interfaces](https://ezabaluevaa11y.netlify.app/)
 - [SCRUM intro presentation](https://zabalueva.github.io/presentation/) and
 [The record of speech from youtube](https://www.youtube.com/watch?v=1ux1eZxmTYg)
 
