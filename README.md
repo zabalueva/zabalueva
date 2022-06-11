@@ -15,7 +15,7 @@
 
 ## My training projects (RSSchool and Education Center Orion Innovation)
 - [Project-management-app](https://github.com/BlackBerryID/project-management-app/) + [deploy](https://pma-team13.netlify.app/) - React (team work, my part - async requests, board, modals, backend deploy, CI/CD)
-- [Youtube-client](https://github.com/zabalueva/youtube-client/tree/ngrx/my-app) 
+- [Youtube-client](https://github.com/zabalueva/youtube-client/tree/ngrx/my-app) - Angular (interceptors, guards, DI, cli, NGRX, services, directives, pipes)
 - [Online-shop](https://rs-school-zabalueva.netlify.app/), [Demo with youtube](https://www.youtube.com/watch?v=HtOTR_s2lJ0) Angular with backend with Node (will be delivered with heroku)
 - [Search repo from Github](https://zabaluevareact6.netlify.app/Cards) - React, raw
 - [Happy New Year](https://zabalueva.github.io/react_first/) - React first steps
