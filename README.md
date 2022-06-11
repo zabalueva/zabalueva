@@ -14,7 +14,7 @@
 [The record of speech from youtube](https://www.youtube.com/watch?v=1ux1eZxmTYg)
 
 ## My training projects (RSSchool and Education Center Orion Innovation)
-- [Project-management-app](https://github.com/BlackBerryID/project-management-app/) [deploy](https://pma-team13.netlify.app/) - React (team work, my part - async requests, board, modals, backend deploy, CI/CD)
+- [Project-management-app](https://github.com/BlackBerryID/project-management-app/) + [deploy](https://pma-team13.netlify.app/) - React (team work, my part - async requests, board, modals, backend deploy, CI/CD)
 - [Online-shop](https://rs-school-zabalueva.netlify.app/), [Demo with youtube](https://www.youtube.com/watch?v=HtOTR_s2lJ0) Angular with backend with Node (will be delivered with heroku)
 - [Search repo from Github](https://zabaluevareact6.netlify.app/Cards) - React, raw
 - [Happy New Year](https://zabalueva.github.io/react_first/) - React first steps
